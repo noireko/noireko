@@ -1,4 +1,4 @@
-# Hola, soy [Tu nombre] 👋
+# Hola, soy Agustin.
 
 Estudiante de **Diseño Multimedia e Interacción** y desarrolladora/or front-end en formación. Combino diseño de interfaces con código: me interesa que lo que construyo se vea bien, funcione bien y sea fácil de usar.
 
@@ -23,4 +23,4 @@ Estudiante de **Diseño Multimedia e Interacción** y desarrolladora/or front-en
 - 🎨 [**Spinetta, sitio reimaginado**](https://github.com/noireko/spinetta-sitio-reimaginado) – Rediseño web grupal. Me encargué de la **home, contacto y tienda**. [Demo](#)
 
 ## Contacto
-📫 [Tu email] · 💼 [LinkedIn] · 🌐 [Portfolio]
+📫 [////] · 💼 [////] · 🌐 [////]
