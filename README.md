@@ -15,7 +15,7 @@ Estudiante de **Diseño Multimedia e Interacción** y desarrolladora/or front-en
 ## Proyectos destacados
 
 **Personales**
-- 🎬 [**Crunchyroll clone**](https://github.com/noireko/crunchyroll-site-clone) – Interfaz recreada con HTML, CSS y JavaScript vanilla. Carruseles responsive hechos desde cero.
+- 🎬 [**Crunchyroll clone**](https://github.com/noireko/crunchyroll-site-clone) – Interfaz recreada con HTML, CSS y JavaScript vanilla. Carruseles responsive hechos desde cero. [Demo](https://noireko.github.io/crunchyroll-site-clone/)
 - ✅ [**To-do list**](https://github.com/noireko/to-do-list) – 
 - 🌈 [**Color palette site**](https://github.com/noireko/color-palette-site) – 
 
