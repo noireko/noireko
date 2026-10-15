@@ -16,8 +16,8 @@ Estudiante de **Diseño Multimedia e Interacción** y desarrolladora/or front-en
 
 **Personales**
 - 🎬 [**Crunchyroll clone**](https://github.com/noireko/crunchyroll-site-clone) – Interfaz recreada con HTML, CSS y JavaScript vanilla. Carruseles responsive hechos desde cero.
-- ✅ [**To-do list**](https://github.com/noireko/to-do-list) – [Una línea de qué hace]. 
-- 🌈 [**Color palette site**](https://github.com/noireko/color-palette-site) – [Una línea de qué hace].
+- ✅ [**To-do list**](https://github.com/noireko/to-do-list) – 
+- 🌈 [**Color palette site**](https://github.com/noireko/color-palette-site) – 
 
 **En equipo**
 - 🎨 [**Spinetta, sitio reimaginado**](https://github.com/noireko/spinetta-sitio-reimaginado) – Rediseño web grupal. Me encargué de la **home, contacto y tienda**. [Demo](#)
