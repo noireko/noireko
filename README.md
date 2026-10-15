@@ -20,7 +20,7 @@ Estudiante de **Diseño Multimedia e Interacción** y desarrolladora/or front-en
 - 🌈 [**Color palette site**](https://github.com/noireko/color-palette-site) – 
 
 **En equipo**
-- 🎨 [**Spinetta, sitio reimaginado**](https://github.com/noireko/spinetta-sitio-reimaginado) – Rediseño web grupal. Me encargué de la **home, contacto y tienda**. [Demo](#)
+- 🎨 [**Spinetta, sitio reimaginado**](https://github.com/noireko/spinetta-sitio-reimaginado) – Rediseño web grupal. Me encargué de la **home, contacto y tienda**.
 
 ## Contacto
 📫 [////] · 💼 [////] · 🌐 [////]
