@@ -9,15 +9,15 @@ Estudiante de **Diseño Multimedia e Interacción** y desarrolladora/or front-en
 
 ## Stack
 **Lenguajes:** JavaScript (ES6+), HTML5, CSS3
-**Herramientas:** Git, GitHub, VS Code, [Figma / otras que uses]
+**Herramientas:** Git, GitHub, VS Code, Figma
 **Aprendiendo:** React, Node.js, TypeScript
 
 ## Proyectos destacados
 
 **Personales**
-- 🎬 [**Crunchyroll clone**](https://github.com/noireko/crunchyroll-site-clone) – Interfaz recreada con HTML, CSS y JavaScript vanilla. Carruseles responsive hechos desde cero. [Demo](#)
-- ✅ [**To-do list**](https://github.com/noireko/to-do-list) – [Una línea de qué hace]. [Demo](#)
-- 🌈 [**Color palette site**](https://github.com/noireko/color-palette-site) – [Una línea de qué hace]. [Demo](#)
+- 🎬 [**Crunchyroll clone**](https://github.com/noireko/crunchyroll-site-clone) – Interfaz recreada con HTML, CSS y JavaScript vanilla. Carruseles responsive hechos desde cero.
+- ✅ [**To-do list**](https://github.com/noireko/to-do-list) – [Una línea de qué hace]. 
+- 🌈 [**Color palette site**](https://github.com/noireko/color-palette-site) – [Una línea de qué hace].
 
 **En equipo**
 - 🎨 [**Spinetta, sitio reimaginado**](https://github.com/noireko/spinetta-sitio-reimaginado) – Rediseño web grupal. Me encargué de la **home, contacto y tienda**. [Demo](#)
