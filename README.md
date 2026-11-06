@@ -1,6 +1,6 @@
 # Hola, soy Agustin.
 
-Estudiante de **Diseño Multimedia e Interacción** y desarrolladora/or front-end en formación. Combino diseño de interfaces con código: me interesa que lo que construyo se vea bien, funcione bien y sea fácil de usar.
+Estudiante de **Diseño Multimedia e Interacción** y desarrollador fullstack en formación. Combino diseño de interfaces con código: me interesa que lo que construyo se vea bien, funcione bien y sea fácil de usar.
 
 ## En qué estoy trabajando
 - 📚 Completando el camino **Full Stack JavaScript** de [The Odin Project](https://www.theodinproject.com/)
