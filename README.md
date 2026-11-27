@@ -23,4 +23,4 @@ Estudiante de **Diseño Multimedia e Interacción** y desarrollador fullstack en
 - 🎨 [**Spinetta, sitio reimaginado**](https://github.com/noireko/spinetta-sitio-reimaginado) – Rediseño web grupal. Me encargué de la **home, contacto y tienda**.
 
 ## Contacto
-📫 fernandezrolon.ags@gmail.com · 💼 [////] · 🌐 [////]
+📫 fernandezrolon.ags@gmail.com · 💼 [////] · 🌐 https://noireko.github.io/afr-portfolio/
